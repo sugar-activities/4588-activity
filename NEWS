@@ -1,0 +1,11 @@
+2
+
+BUG FIX:
+* Fix problem with setting colors when no items are starred in Journal
+
+1
+
+Simple bulletin-board program that generates a slide show based on
+items starred in the Sugar Journals of sharers. (Based on Portfolio
+and inspired by TeamUp)
+
